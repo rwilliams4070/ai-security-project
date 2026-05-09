@@ -60,6 +60,11 @@ Adversarial training was implemented as a defense technique.
 
 The defended model became significantly more resistant to adversarial attacks.
 
+## Results Summary
+- Baseline MNIST model accuracy: 98.7%
+- FGSM attack reduced accuracy to as low as 3.09%
+- Adversarial training defense improved robustness to 98.24% under attack
+
 ---
 
 ## How to Run
