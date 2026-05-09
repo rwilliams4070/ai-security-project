@@ -1,3 +1,7 @@
+Author: Reginald Williams  
+Course: CTEC 450  
+Instructor: Professor Carter
+
 # AI Security Project
 
 ## Project Overview
